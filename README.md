@@ -17,7 +17,7 @@ The system processes Hindi voice commands locally without sending data to cloud 
 
 ## Hardware Requirements
 
-* Raspberry Pi 4
+* Raspberry Pi 5
 * USB Microphone
 * Speaker
 * MicroSD Card
